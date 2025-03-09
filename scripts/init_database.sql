@@ -12,6 +12,7 @@ CREATE DATABASE DataWareHouse;
 
 USE DataWareHouse;
 
+GO
 CREATE SCHEMA bronze;
 GO
 CREATE SCHEMA silver;
